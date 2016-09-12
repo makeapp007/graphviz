@@ -1,0 +1,4272 @@
+graph G {
+A0523800 -- A0523800B[penwidth=5]
+A0523800 [
+pos ="419.04,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0523800B [
+
+pos ="419.04,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0041301 -- A0041301B[penwidth=5][style=dashed]
+A0041301 [
+pos ="33.04,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0041301B [
+
+pos ="33.04,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1860800 -- A1860800B [penwidth=5]
+A1860800 [
+pos ="0,688.64"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1860800B [
+
+pos ="6400,688.64"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A119200 -- A119200B [penwidth=5]
+A119200 [
+pos ="0,153.6"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A119200B [
+
+pos ="6400,153.6"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A150600 -- A150600B [penwidth=5]
+A150600 [
+pos ="0,404.8"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A150600B [
+
+pos ="6400,404.8"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1238500 -- A1238500B [penwidth=5]
+A1238500 [
+pos ="0,190.8"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1238500B [
+
+pos ="6400,190.8"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0153500 -- A0153500B[penwidth=5]
+A0153500 [
+pos ="122.8,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0153500B [
+
+pos ="122.8,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1307610 -- A1307610B [penwidth=3]
+A1307610 [
+pos ="0,246.08"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1307610B [
+
+pos ="6400,246.08"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A127971A1 -- A127971a1B [penwidth=3][style=dashed]
+A127971A1 [
+pos ="0,223.76"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A127971a1B [
+
+pos ="6400,223.76"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0173510 -- A0173510B[penwidth=3]
+A0173510 [
+pos ="138.8,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0173510B [
+
+pos ="138.8,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1772810 -- A1772810B [penwidth=3]
+A1772810 [
+pos ="0,618.24"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1772810B [
+
+pos ="6400,618.24"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1542210 -- A1542210B [penwidth=3]
+A1542210 [
+pos ="0,433.76"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1542210B [
+
+pos ="6400,433.76"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0482710 -- A0482710B[penwidth=3]
+A0482710 [
+pos ="386.16,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0482710B [
+
+pos ="386.16,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1146510 -- A1146510B [penwidth=3]
+A1146510 [
+pos ="0,117.2"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1146510B [
+
+pos ="6400,117.2"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0414310 -- A0414310B[penwidth=3]
+A0414310 [
+pos ="331.44,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0414310B [
+
+pos ="331.44,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0614310 -- A0614310B[penwidth=3]
+A0614310 [
+pos ="491.44,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0614310B [
+
+pos ="491.44,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0207510 -- A0207510B[penwidth=3]
+A0207510 [
+pos ="166.0,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0207510B [
+
+pos ="166.0,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1518210 -- A1518210B [penwidth=3]
+A1518210 [
+pos ="0,414.56"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1518210B [
+
+pos ="6400,414.56"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0671110 -- A0671110B[penwidth=3]
+A0671110 [
+pos ="536.88,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0671110B [
+
+pos ="536.88,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0402220 -- A0402220B[penwidth=1]
+A0402220 [
+pos ="321.76,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0402220B [
+
+pos ="321.76,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1618520 -- A1618520B [penwidth=1]
+A1618520 [
+pos ="0,494.8"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1618520B [
+
+pos ="6400,494.8"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0078720 -- A0078720B[penwidth=1]
+A0078720 [
+pos ="62.96,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0078720B [
+
+pos ="62.96,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1443720 -- A1443720B [penwidth=1]
+A1443720 [
+pos ="0,354.96"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1443720B [
+
+pos ="6400,354.96"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1493920 -- A1493920B [penwidth=1]
+A1493920 [
+pos ="0,395.12"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1493920B [
+
+pos ="6400,395.12"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1631920 -- A1631920B [penwidth=1]
+A1631920 [
+pos ="0,505.52"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1631920B [
+
+pos ="6400,505.52"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1710720 -- A1710720B [penwidth=1]
+A1710720 [
+pos ="0,568.56"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1710720B [
+
+pos ="6400,568.56"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0792120 -- A0792120B[penwidth=1]
+A0792120 [
+pos ="633.68,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0792120B [
+
+pos ="633.68,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1770920 -- A1770920B [penwidth=1]
+A1770920 [
+pos ="0,616.72"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1770920B [
+
+pos ="6400,616.72"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1820520 -- A1820520B [penwidth=1]
+A1820520 [
+pos ="0,656.4"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1820520B [
+
+pos ="6400,656.4"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0752820 -- A0752820B[penwidth=1]
+A0752820 [
+pos ="602.24,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0752820B [
+
+pos ="602.24,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0856120 -- A0856120B[penwidth=1]
+A0856120 [
+pos ="684.88,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0856120B [
+
+pos ="684.88,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0313120 -- A0313120B[penwidth=1]
+A0313120 [
+pos ="250.48,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0313120B [
+
+pos ="250.48,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1763220 -- A1763220B [penwidth=1]
+A1763220 [
+pos ="0,610.56"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1763220B [
+
+pos ="6400,610.56"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0331920 -- A0331920B[penwidth=1]
+A0331920 [
+pos ="265.52,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0331920B [
+
+pos ="265.52,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0818820 -- A0818820B[penwidth=1]
+A0818820 [
+pos ="655.04,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0818820B [
+
+pos ="655.04,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1842520 -- A1842520B [penwidth=1]
+A1842520 [
+pos ="0,674.0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1842520B [
+
+pos ="6400,674.0"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1598820 -- A1598820B [penwidth=1]
+A1598820 [
+pos ="0,479.04"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1598820B [
+
+pos ="6400,479.04"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0670320 -- A0670320B[penwidth=1]
+A0670320 [
+pos ="536.24,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0670320B [
+
+pos ="536.24,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0351120 -- A0351120B[penwidth=1]
+A0351120 [
+pos ="280.88,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0351120B [
+
+pos ="280.88,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1575120 -- A1575120B [penwidth=1]
+A1575120 [
+pos ="0,460.08"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1575120B [
+
+pos ="6400,460.08"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1738520 -- A1738520B [penwidth=1]
+A1738520 [
+pos ="0,590.8"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A1738520B [
+
+pos ="6400,590.8"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0535120 -- A0535120B[penwidth=1]
+A0535120 [
+pos ="428.08,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0535120B [
+
+pos ="428.08,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0809520 -- A0809520B[penwidth=1]
+A0809520 [
+pos ="647.6,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0809520B [
+
+pos ="647.6,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0210121 -- A0210121B[penwidth=1][style=dashed]
+A0210121 [
+pos ="168.08,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0210121B [
+
+pos ="168.08,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0297420 -- A0297420B[penwidth=1]
+A0297420 [
+pos ="237.92,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0297420B [
+
+pos ="237.92,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0205720 -- A0205720B[penwidth=1]
+A0205720 [
+pos ="164.56,0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A0205720B [
+
+pos ="164.56,6400" 
+
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A106520 -- A106520B [penwidth=1]
+A106520 [
+pos ="0,52.0"
+		
+width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		A106520B [
+
+pos ="6400,52.0"
+		width=0.05
+		fixedsize=true
+ style=filled
+
+		color=black
+		shape=circle
+
+		label=""
+
+		]
+
+		sign8s1887s1070s616 [
+pos ="655.04,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3191s920s837 [
+pos ="265.52,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2385s4220s681 [
+pos ="419.04,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1311s920s68 [
+pos ="250.48,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7118s6080s71 [
+pos ="536.88,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5286s1850s67 [
+pos ="602.24,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0577s7280s753 [
+pos ="164.56,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7038s6080s792 [
+pos ="536.24,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s5613s0760s998 [
+pos ="684.88,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1435s1820s712 [
+pos ="331.44,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7357s7090s785 [
+pos ="138.8,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9212s7970s799 [
+pos ="633.68,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5287s3850s892 [
+pos ="602.24,590.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s1437s1070s979 [
+pos ="491.44,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9741s4650s886 [
+pos ="237.92,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1012s3850s675 [
+pos ="168.08,190.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7351s920s836 [
+pos ="138.8,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9217s1070s653 [
+pos ="633.68,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1317s1070s612 [
+pos ="250.48,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4135s1820s605 [
+pos ="33.04,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5356s3190s95 [
+pos ="122.8,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3198s6080s981 [
+pos ="265.52,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4135s4220s6 [
+pos ="33.04,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0225s7510s7 [
+pos ="321.76,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5110s650s722 [
+pos ="280.88,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1013s0760s631 [
+pos ="168.08,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s0955s1820s828 [
+pos ="647.6,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1885s060s75 [
+pos ="655.04,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0224s9390s734 [
+pos ="321.76,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0750s650s688 [
+pos ="166.0,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7118s2050s717 [
+pos ="536.88,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5358s4250s895 [
+pos ="122.8,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4135s7510s972 [
+pos ="33.04,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0751s4650s693 [
+pos ="166.0,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2385s9880s823 [
+pos ="419.04,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1016s3190s996 [
+pos ="168.08,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2382s3850s969 [
+pos ="419.04,190.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9742s3850s98 [
+pos ="237.92,190.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7355s060s625 [
+pos ="138.8,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s7877s3850s668 [
+pos ="62.96,590.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1317s7090s898 [
+pos ="250.48,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9218s4250s805 [
+pos ="633.68,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1315s7510s859 [
+pos ="250.48,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1318s4250s725 [
+pos ="250.48,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1886s1850s63 [
+pos ="655.04,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s5617s6320s681 [
+pos ="684.88,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9746s1850s912 [
+pos ="237.92,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3194s9390s938 [
+pos ="265.52,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9215s4220s725 [
+pos ="633.68,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5288s6080s83 [
+pos ="602.24,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1880s650s979 [
+pos ="655.04,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9216s3190s862 [
+pos ="633.68,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0225s4220s708 [
+pos ="321.76,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0757s1070s794 [
+pos ="166.0,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5117s7090s895 [
+pos ="280.88,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1315s1820s658 [
+pos ="250.48,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0755s060s704 [
+pos ="166.0,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9742s7970s789 [
+pos ="237.92,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0573s0760s922 [
+pos ="164.56,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0758s6080s781 [
+pos ="166.0,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s0952s3850s881 [
+pos ="647.6,190.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s5615s7510s608 [
+pos ="684.88,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5354s4370s711 [
+pos ="122.8,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s1437s6320s826 [
+pos ="491.44,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9211s4650s868 [
+pos ="633.68,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5350s650s844 [
+pos ="122.8,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s0957s3850s884 [
+pos ="647.6,590.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3195s060s888 [
+pos ="265.52,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3197s1070s782 [
+pos ="265.52,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s7874s9390s669 [
+pos ="62.96,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2381s920s921 [
+pos ="419.04,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0575s7510s805 [
+pos ="164.56,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5284s4370s998 [
+pos ="602.24,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3198s2050s718 [
+pos ="265.52,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5118s4250s651 [
+pos ="280.88,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9214s4370s746 [
+pos ="633.68,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5118s6080s886 [
+pos ="280.88,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7115s1820s681 [
+pos ="536.88,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s3516s3190s603 [
+pos ="428.08,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1882s7970s925 [
+pos ="655.04,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3190s650s869 [
+pos ="265.52,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5286s3190s715 [
+pos ="602.24,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3197s7280s921 [
+pos ="265.52,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5288s4250s993 [
+pos ="602.24,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s0955s060s619 [
+pos ="647.6,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5115s7510s912 [
+pos ="280.88,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4138s2050s863 [
+pos ="33.04,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s0956s3190s969 [
+pos ="647.6,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4135s060s769 [
+pos ="33.04,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2386s3190s624 [
+pos ="419.04,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s1435s9880s941 [
+pos ="491.44,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7032s7970s826 [
+pos ="536.24,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1888s6080s855 [
+pos ="655.04,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s7874s4370s756 [
+pos ="62.96,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s3517s6320s918 [
+pos ="428.08,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2384s4370s81 [
+pos ="419.04,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s3517s3850s889 [
+pos ="428.08,590.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1883s0760s751 [
+pos ="655.04,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4138s6080s641 [
+pos ="33.04,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7358s2050s719 [
+pos ="138.8,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7352s3850s642 [
+pos ="138.8,190.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7357s1070s605 [
+pos ="138.8,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1317s7280s916 [
+pos ="250.48,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0577s6320s72 [
+pos ="164.56,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s5617s1070s849 [
+pos ="684.88,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1017s7090s899 [
+pos ="168.08,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1435s9880s913 [
+pos ="331.44,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7114s4370s949 [
+pos ="536.88,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1316s3190s802 [
+pos ="250.48,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7117s6320s612 [
+pos ="536.88,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7351s4650s632 [
+pos ="138.8,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5116s3190s617 [
+pos ="280.88,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1437s7280s779 [
+pos ="331.44,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0756s1850s668 [
+pos ="166.0,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s5618s4250s901 [
+pos ="684.88,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7113s0760s662 [
+pos ="536.88,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1884s4370s785 [
+pos ="655.04,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s7875s060s617 [
+pos ="62.96,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5283s0760s895 [
+pos ="602.24,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7356s3190s918 [
+pos ="138.8,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5357s7280s881 [
+pos ="122.8,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1884s9390s797 [
+pos ="655.04,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1881s920s987 [
+pos ="655.04,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9747s6320s682 [
+pos ="237.92,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1887s7090s866 [
+pos ="655.04,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5280s650s752 [
+pos ="602.24,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s1435s7510s636 [
+pos ="491.44,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0226s3190s862 [
+pos ="321.76,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s7871s920s637 [
+pos ="62.96,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7117s7090s807 [
+pos ="536.88,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0222s7970s961 [
+pos ="321.76,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7037s7280s633 [
+pos ="536.24,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0574s4370s846 [
+pos ="164.56,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s3518s2050s748 [
+pos ="428.08,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s3516s1850s635 [
+pos ="428.08,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9215s7510s675 [
+pos ="633.68,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7117s1070s919 [
+pos ="536.88,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3196s3190s866 [
+pos ="265.52,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7118s4250s68 [
+pos ="536.88,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7354s4370s682 [
+pos ="138.8,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5113s0760s987 [
+pos ="280.88,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s1437s7090s678 [
+pos ="491.44,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s8276s3190s647 [
+pos ="386.16,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5281s4650s668 [
+pos ="602.24,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1316s1850s907 [
+pos ="250.48,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s8271s920s788 [
+pos ="386.16,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4135s9880s753 [
+pos ="33.04,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1885s4220s829 [
+pos ="655.04,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0575s1820s841 [
+pos ="164.56,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1434s9390s668 [
+pos ="331.44,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s1431s4650s869 [
+pos ="491.44,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0228s6080s863 [
+pos ="321.76,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2387s7090s682 [
+pos ="419.04,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5356s1850s75 [
+pos ="122.8,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0574s9390s767 [
+pos ="164.56,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3196s1850s609 [
+pos ="265.52,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s3511s920s854 [
+pos ="428.08,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s1438s2050s847 [
+pos ="491.44,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5118s2050s995 [
+pos ="280.88,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7031s4650s702 [
+pos ="536.24,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0571s4650s909 [
+pos ="164.56,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1437s1070s987 [
+pos ="331.44,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s8275s9880s921 [
+pos ="386.16,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s3517s1070s89 [
+pos ="428.08,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5111s920s921 [
+pos ="280.88,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s7878s2050s942 [
+pos ="62.96,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3195s9880s83 [
+pos ="265.52,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5287s7280s603 [
+pos ="602.24,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2388s4250s891 [
+pos ="419.04,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1017s7280s817 [
+pos ="168.08,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2383s0760s949 [
+pos ="419.04,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0221s4650s775 [
+pos ="321.76,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1017s3850s849 [
+pos ="168.08,590.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0755s1820s819 [
+pos ="166.0,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3195s1820s838 [
+pos ="265.52,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7035s4220s715 [
+pos ="536.24,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7034s9390s964 [
+pos ="536.24,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0577s1070s83 [
+pos ="164.56,568.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7358s4250s75 [
+pos ="138.8,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5287s7090s651 [
+pos ="602.24,616.72"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9748s4250s653 [
+pos ="237.92,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1432s7970s65 [
+pos ="331.44,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3192s3850s906 [
+pos ="265.52,190.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4132s7970s911 [
+pos ="33.04,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7116s1850s657 [
+pos ="536.88,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9740s650s837 [
+pos ="237.92,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7355s9880s805 [
+pos ="138.8,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9744s4370s931 [
+pos ="237.92,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s0958s4250s711 [
+pos ="647.6,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4131s920s98 [
+pos ="33.04,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0751s920s791 [
+pos ="166.0,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4132s3850s98 [
+pos ="33.04,190.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0578s4250s919 [
+pos ="164.56,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5353s0760s76 [
+pos ="122.8,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5287s6320s992 [
+pos ="602.24,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s0951s4650s873 [
+pos ="647.6,117.2"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7036s1850s633 [
+pos ="536.24,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1437s3850s897 [
+pos ="331.44,590.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s1315s4220s696 [
+pos ="250.48,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7115s7510s745 [
+pos ="536.88,460.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s8274s4370s976 [
+pos ="386.16,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9741s920s757 [
+pos ="237.92,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s5615s4220s867 [
+pos ="684.88,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9748s6080s989 [
+pos ="237.92,688.64"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s3515s1820s891 [
+pos ="428.08,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0575s4220s998 [
+pos ="164.56,433.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9748s2050s713 [
+pos ="237.92,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s1438s4250s82 [
+pos ="491.44,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5285s9880s698 [
+pos ="602.24,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2388s2050s851 [
+pos ="419.04,656.4"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1011s920s887 [
+pos ="168.08,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7034s4370s933 [
+pos ="536.24,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0575s060s633 [
+pos ="164.56,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0224s4370s793 [
+pos ="321.76,354.96"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0752s7970s858 [
+pos ="166.0,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4133s0760s698 [
+pos ="33.04,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s1885s9880s693 [
+pos ="655.04,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s5117s7280s616 [
+pos ="280.88,618.24"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s5281s920s906 [
+pos ="602.24,153.6"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0757s6320s759 [
+pos ="166.0,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1438s4250s657 [
+pos ="331.44,674.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign0s4130s650s955 [
+pos ="33.04,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7350s650s811 [
+pos ="138.8,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign7s9216s1850s906 [
+pos ="633.68,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1014s9390s828 [
+pos ="168.08,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5354s9390s651 [
+pos ="122.8,395.12"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s5357s6320s761 [
+pos ="122.8,610.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign1s7355s1820s934 [
+pos ="138.8,414.56"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7032s3850s882 [
+pos ="536.24,190.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0576s1850s916 [
+pos ="164.56,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign5s2387s3850s701 [
+pos ="419.04,590.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0756s3190s972 [
+pos ="166.0,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s1010s650s766 [
+pos ="168.08,52.0"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s0952s7970s852 [
+pos ="647.6,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s9743s0760s6 [
+pos ="237.92,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign8s5617s3850s956 [
+pos ="684.88,590.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s0225s9880s649 [
+pos ="321.76,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s8275s060s995 [
+pos ="386.16,404.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign4s1436s1850s848 [
+pos ="331.44,494.8"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0575s9880s784 [
+pos ="164.56,479.04"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign3s3192s7970s868 [
+pos ="265.52,223.76"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign6s7036s3190s815 [
+pos ="536.24,505.52"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	sign2s0753s0760s972 [
+pos ="166.0,246.08"
+	width=0.14
+	fixedsize=true
+	style=filled
+	color=red
+	shape=circle
+	label=""
+	]
+
+	A7C6450C6570C910C93959C488 [
+pos ="611.6,52.56"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A0C6026C6280C930C90461C044 [
+pos ="48.16,530.24"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A5C9793C2681C5921C66861C01 [
+pos ="478.32,261.44"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A6C2054C770C760C83758C791 [
+pos ="496.4,381.6"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A4C7555C4160C7730C7362C836 [
+pos ="380.4,433.28"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A3C7720C5530C9811C03661C689 [
+pos ="301.76,44.24"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A0C9214C9540C9050C8156C833 [
+pos ="73.68,396.32"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A0C568C1330C6140C66456C245 [
+pos ="44.8,650.64"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A5C2815C4890C3580C35162C302 [
+pos ="422.48,439.12"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A1C3071C0411C1061C22962C319 [
+pos ="104.56,83.28"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A7C4858C3190C8490C85960C77 [
+pos ="598.8,665.52"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A5C8244C3511C5911C63359C304 [
+pos ="465.92,348.08"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A1C2788C2840C830C77955C206 [
+pos ="102.24,662.72"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A1C7051C380C90C8559C226 [
+pos ="136.4,110.4"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A1C5361C4740C5190C50462C38 [
+pos ="122.88,117.92"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A7C9353C9941C4021C50157C04 [
+pos ="634.8,319.52"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A1C3580C341C1081C10759C865 [
+pos ="108.64,27.2"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A6C9330C4821C1591C1864C735 [
+pos ="554.64,38.56"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A3C4894C3211C4641C40164C902 [
+pos ="279.12,345.68"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A7C7337C3150C4920C52556C38 [
+pos ="618.64,585.2"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A6C0552C6010C9280C94857C522 [
+pos ="484.4,208.08"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A0C255C3450C4570C48957C297 [
+pos ="20.0,427.6"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A3C9471C6950C6840C70156C45 [
+pos ="315.76,135.6"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A5C6677C770C9240C95462C269 [
+pos ="453.36,621.6"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A1C5041C6090C8840C88158C365 [
+pos ="120.32,128.72"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A2C5911C1051C2041C22260C343 [
+pos ="207.28,88.4"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A6C3345C1890C6390C62864C437 [
+pos ="506.72,415.12"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A7C6886C2390C4310C41556C091 [
+pos ="615.04,499.12"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A3C1376C3710C9360C81655C82 [
+pos ="250.96,509.68"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A6C4172C6390C7050C72961C593 [
+pos ="513.36,211.12"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A5C5436C0380C8390C82557C935 [
+pos ="443.44,483.04"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A5C7213C6861C611C62260C702 [
+pos ="457.68,294.88"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A3C2456C8360C8360C82558C831 [
+pos ="259.6,546.88"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A3C9667C6980C5380C52855C107 [
+pos ="317.28,615.84"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A8C2775C0050C4350C39264C432 [
+pos ="662.16,400.4"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A4C4731C0211C0681C09858C5 [
+pos ="357.84,81.68"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A7C234C1061C6281C66163C075 [
+pos ="578.4,328.48"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A4C2777C4690C7550C73257C856 [
+pos ="342.16,597.52"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	A7C0311C9620C980C95461C38 [
+pos ="562.48,156.96"
+	width=0.12
+	fixedsize=true
+	style=filled
+	fillcolor="#9ACEEB"
+	shape=doublecircle
+
+	label=""
+	]
+
+	}

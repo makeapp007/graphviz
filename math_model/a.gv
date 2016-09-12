@@ -1,0 +1,37 @@
+graph G {
+       
+A -- A1 [label="1"   ];
+A -- A2
+A-- A3
+
+A [
+    pos = "0,0!";
+	width=0.2
+
+	fixedsize=true
+	style=filled
+	color=black
+	shape=circle;
+]
+A3[
+	pos="400,0!";
+
+]
+
+A1 [
+	shape=point;
+	style=dotted;
+    label = A1
+    pos = "100,0!"
+]
+A2 [
+	shape=point;
+
+	pos="0,-100!"
+]
+
+
+
+}
+
+
